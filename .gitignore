@@ -1,0 +1,5 @@
+# project
+./dist
+
+# npm
+node_modules
